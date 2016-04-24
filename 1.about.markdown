@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 ## PANZ mission
@@ -20,7 +21,7 @@ Within Australia and New Zealand, PANZ aims to:
 
 1.	seek and secure funding to assist with the association's activities.
 
-The Strategic Plan for PANZ can be found here.
+The Strategic Plan for PANZ can be found [here.](/_files/panz-strategic-plan.pdf)
 
 ## PANZ history
 
