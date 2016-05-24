@@ -10,6 +10,6 @@ While the steel pan itself is a relatively recent invention (some say it is the 
 
 Any omissions or errors are the responsibility of the team of writers. Additions and corrections to the history are welcomed at info@panz.org.au.
 
-HistoryTable.jpg
+![history table](/files/historytable_med.jpeg)
 
 If anyone has other information that they would like included in the PANZ History, please send the required information for the above table (date, place, band, description) to info@panz.org.au.
