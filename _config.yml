@@ -9,7 +9,7 @@
 title: PANZ - Pan Australia and New Zealand
 email: renwooller@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The home for Steelbands and Steelpan ('Pan' or 'Steel Drum') Players in Australia & New Zealand.
+  The home for Steelbands and Steelpan Players in Australia & New Zealand.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.panz.org.au" # the base hostname & protocol for your site
 #twitter_username: 
