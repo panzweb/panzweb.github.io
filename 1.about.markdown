@@ -60,9 +60,10 @@ __Treasurer__: Rita Seethaler (treasurer@panz.org.au)
 - the right to vote at PANZ AGMs and to stand for office
 
 ## Fees
+Membership Fees:
 
-Membership of PANZ is open to all individuals and steelbands in Australia and New Zealand. Membership classes and annual fees ($AU) are:
+Membership of PANZ is open to all individuals and steelbands in Australia and New Zealand. Membership classes and annual fees to join/renew ($AU) are:
 
-    Individual: $25
-    Band: $150
-    Junior band: $75
+    Individual:     $25 /$20 
+    Band:           $150/$100 
+    Junior band:    $75 /$50 
