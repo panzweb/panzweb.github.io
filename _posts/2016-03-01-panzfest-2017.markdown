@@ -5,4 +5,4 @@ date:   2016-03-02 21:23:44 +1000
 categories: newsletter
 ---
 
-<p><img src="https://www.dropbox.com/s/n4ppzfubjay1gkg/PANZfest_logo_1.jpg?dl=0" /></p>
+<p><img src="https://www.dropbox.com/s/n4ppzfubjay1gkg/PANZfest_logo_1.jpg?raw=1" /></p>
