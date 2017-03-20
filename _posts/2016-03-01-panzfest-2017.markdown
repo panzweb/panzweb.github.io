@@ -1,1 +1,8 @@
-<img src="https://www.dropbox.com/s/n4ppzfubjay1gkg/PANZfest_logo_1.jpg?dl=0" />
+---
+layout: post
+title:  "The upcoming PANZfest 2017 August 25th-27th"
+date:   2016-03-02 21:23:44 +1000
+categories: newsletter
+---
+
+<p><img src="https://www.dropbox.com/s/n4ppzfubjay1gkg/PANZfest_logo_1.jpg?dl=0" /></p>
