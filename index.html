@@ -10,18 +10,4 @@ layout: default
   <p> The one stop shop for <a href="/files/panz-strategic-plan-2016.pdf">information on all steelbands, pan players, makers and tuners across Australia and New Zealand.</a></p> 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/eNuGITllEws" frameborder="0" allowfullscreen></iframe>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-<!--   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
-
 </div>
