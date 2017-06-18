@@ -6,6 +6,15 @@ published: true
 ---
 
 <ul class="post-list">
+    
+    <li>
+        <span class="post-meta">Jun 14, 2017</span>
+
+        <h2>
+          <a class="post-link" href="http://panz.org.au/newsletter/2016/03/02/panzfest-2017.html">The upcoming PANZfest 2017, August 25th-27th!</a>
+        </h2>
+      </li>  
+    
     <li>
         <span class="post-meta">Jun 14, 2017</span>
 
@@ -13,6 +22,7 @@ published: true
           <a class="post-link" href="http://us5.campaign-archive2.com/?e=&u=ce25ed889bbb21af7f495ecca&id=cb9b6f3933">Panyard Lime - PANZ Newsletter Issue 3</a>
         </h2>
       </li>  
+      
     <li>
         <span class="post-meta">Jun 14, 2017</span>
 
@@ -21,15 +31,14 @@ published: true
         </h2>
       </li>
       
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+   <li>
+        <span class="post-meta">Jun 14, 2017</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="http://panz.org.au/newsletter/2016/03/02/panyyard-lime.html">Panyard Lime - PANZ Newsletter Issue 1</a>
         </h2>
-      </li>
-    {% endfor %}
+      </li>  
+   
   </ul>
 
 <!--   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
