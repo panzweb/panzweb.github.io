@@ -17,6 +17,8 @@ exclude_title_heading: true
 
 [Calypso Monarch Guidelines and Registration](https://www.dropbox.com/s/9hw9w11l9ppdvv6/PANZfest%20Calypso%20Monarch%20-%20Guidelines%2C%20Rules%20%26%20Registration%20Form_Final.pdf?raw=1)
 
+[Facebook Page for PANZFest](https://www.facebook.com/panzfest2015)
+
 ## Cairns
 
 PANZfest 2017 is part of the [Cairns Festival](http://www.cairns.qld.gov.au/festival)
