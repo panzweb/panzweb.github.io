@@ -2,6 +2,7 @@
 layout: page
 title: PANZFest
 permalink: /panzfest/
+exclude_title_heading: true
 ---
 
 <p><img src="https://www.dropbox.com/s/n4ppzfubjay1gkg/PANZfest_logo_1.jpg?raw=1" /></p>
