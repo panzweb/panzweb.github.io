@@ -9,11 +9,10 @@ published: true
     
     <li>
         <span class="post-meta">Jul 27, 2017</span>
-
         <h2>
-          <a class="post-link" href="http://mailchi.mp/d8419588b0cb/australian-steelband-festival-marysville-2013">Panyward Lime - PANZ Newsletter Issue 4</a>
+          <a class="post-link" href="http://mailchi.mp/d8419588b0cb/australian-steelband-festival-marysville-2013">Panyard Lime - PANZ Newsletter Issue 4</a>
         </h2>
-      </li>  
+    </li>  
     
     <li>
         <span class="post-meta">Jun 14, 2017</span>
@@ -21,7 +20,7 @@ published: true
         <h2>
           <a class="post-link" href="http://panz.org.au/newsletter/2016/03/02/panzfest-2017.html">The upcoming PANZfest 2017, August 25th-27th!</a>
         </h2>
-      </li>  
+    </li>  
     
     <li>
         <span class="post-meta">Jun 14, 2017</span>
@@ -29,7 +28,7 @@ published: true
         <h2>
           <a class="post-link" href="http://us5.campaign-archive2.com/?e=&u=ce25ed889bbb21af7f495ecca&id=cb9b6f3933">Panyard Lime - PANZ Newsletter Issue 3</a>
         </h2>
-      </li>  
+    </li>  
       
     <li>
         <span class="post-meta">Jun 14, 2017</span>
@@ -37,7 +36,7 @@ published: true
         <h2>
           <a class="post-link" href="http://us5.campaign-archive1.com/?e=[UNIQID]&u=ce25ed889bbb21af7f495ecca&id=f67bae9fcb">Panyard Lime - PANZ Newsletter Issue 2</a>
         </h2>
-      </li>
+    </li>
       
    <li>
         <span class="post-meta">Jun 14, 2017</span>
@@ -45,7 +44,7 @@ published: true
         <h2>
           <a class="post-link" href="http://panz.org.au/newsletter/2016/03/02/panyyard-lime.html">Panyard Lime - PANZ Newsletter Issue 1</a>
         </h2>
-      </li>  
+    </li>  
    
   </ul>
 
