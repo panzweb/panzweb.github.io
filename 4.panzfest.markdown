@@ -9,7 +9,9 @@ exclude_title_heading: true
 
 ## Registration and information
 
-[Online](https://www.surveymonkey.com/r/WBCGY5R)
+[Program](https://www.dropbox.com/s/q3bm8971f8cx6hd/PANZfest%20Program%20v17.1.pdf?raw=1)
+
+[Online Registration](https://www.surveymonkey.com/r/WBCGY5R)
 
 [Printable Registration Form](https://www.dropbox.com/s/79ji8akomx8vy6z/PANZfest%20Registration%20Form_Updated%20on%2028.4.17.pdf?raw=1)
 
