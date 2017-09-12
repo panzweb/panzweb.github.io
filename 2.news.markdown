@@ -32,14 +32,6 @@ published: true
         <span class="post-meta">Jun 14, 2017</span>
 
         <h2>
-          <a class="post-link" href="http://panz.org.au/newsletter/2016/03/02/panzfest-2017.html">The upcoming PANZfest 2017, August 25th-27th!</a>
-        </h2>
-    </li>  
-    
-    <li>
-        <span class="post-meta">Jun 14, 2017</span>
-
-        <h2>
           <a class="post-link" href="http://us5.campaign-archive2.com/?e=&u=ce25ed889bbb21af7f495ecca&id=cb9b6f3933">Panyard Lime - PANZ Newsletter Issue 3</a>
         </h2>
     </li>  
