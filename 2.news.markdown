@@ -8,6 +8,13 @@ published: true
 <ul class="post-list">
     
     <li>
+        <span class="post-meta">Sep 12, 2017</span>
+        <h2>
+          <a class="post-link" href="http://mailchi.mp/d484088b6bd8/panyard-lime-6-panzfest-australian-steelband-festival-1087369">Panyard Lime - PANZ Newsletter Issue 5</a>
+        </h2>
+    </li>  
+    
+    <li>
         <span class="post-meta">Jul 27, 2017</span>
         <h2>
           <a class="post-link" href="http://mailchi.mp/d8419588b0cb/australian-steelband-festival-marysville-2013">Panyard Lime - PANZ Newsletter Issue 4</a>
