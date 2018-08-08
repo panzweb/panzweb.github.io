@@ -13,3 +13,4 @@ exclude_title_heading: true
 
 [Facebook Page for PANZFest](https://www.facebook.com/panzfest2015)
 
+Early Bird Discount ends 30 September 2018!
