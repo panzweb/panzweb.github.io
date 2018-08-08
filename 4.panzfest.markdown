@@ -5,7 +5,7 @@ permalink: /panzfest/
 exclude_title_heading: true
 ---
 
-<p><img src="/_files/PANZfest-2019_FINAL_pdf__page_1_of_2_.png" /></p>
+<p><img src="files/PANZfest-2019_FINAL_pdf__page_1_of_2_.png" /></p>
 
 ## Registration and information
 
